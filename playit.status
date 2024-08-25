@@ -1,0 +1,39 @@
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mGot Error
+MSG: Failed to setup tunnel client
+Error: RequestError(TooManyRequests)
+[2J8[0mtunnel running[2J8[0mplayit (v0.15.22): 1724620742251 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAuXzAAAAZGLaB8uAAAAAQAAAAEAAAAAAAAAAA6iuz8eswDQlFzh1rmJhMBT__z4hBRGArIXEfxToUHQ
+
+TUNNELS
+thomas-orchestra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1724620745390 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAuXzAAAAZGLaB8uAAAAAQAAAAEAAAAAAAAAAA6iuz8eswDQlFzh1rmJhMBT__z4hBRGArIXEfxToUHQ
+
+TUNNELS
+thomas-orchestra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1724620748459 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAuXzAAAAZGLaB8uAAAAAQAAAAEAAAAAAAAAAA6iuz8eswDQlFzh1rmJhMBT__z4hBRGArIXEfxToUHQ
+
+TUNNELS
+thomas-orchestra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1724620763557 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAuXzAAAAZGLaHJkAAAAAQAAAAEAAAAAAAAAAL633i-ecdw_fVoXIbiYwFsuLy6p8KxYg3Ux4ulvJfNd
+
+TUNNELS
+thomas-orchestra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1724620766679 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAuXzAAAAZGLaHJkAAAAAQAAAAEAAAAAAAAAAL633i-ecdw_fVoXIbiYwFsuLy6p8KxYg3Ux4ulvJfNd
+
+TUNNELS
+thomas-orchestra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
